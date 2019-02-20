@@ -6,4 +6,4 @@ To download and run:
 
 Team: Priyanshu Jain, Jackie Wong, Ginger Burrows, Jessika Baral
 
-Swipeable Card Interface: https://github.com/phillfarrugia/swipeable-view-stack
+Swipeable Card Interface taken and modified from: https://github.com/phillfarrugia/swipeable-view-stack
