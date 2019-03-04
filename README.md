@@ -1,7 +1,5 @@
 # TeamUp
-Demo: https://youtu.be/4yxguM4aRjw
-
-Image for Profile Pic (Demo 2): https://youtu.be/9uT1-BaPbNk
+Demo: http://bit.ly/TeamUpDemo
 
 To download and run:
 - Need to create a Firebase Authentication and Database backend.
